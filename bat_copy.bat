@@ -1,0 +1,1 @@
+xcopy Z:\daily_report_%Date:~6,4%_%Date:~3,2%_%Date:~0,2%_0725AM.zip C:\xampp\htdocs\Check_archivo\files\

@@ -1,0 +1,40 @@
+ 
+ *** Generando reporte diario para Mon 07:25 AM 
+ 
+** INFORME BASE DE DATOS STANDBY ** 
+** ----------------------------- ** 
+ 
+ 
+** Espacio libre en unidad D (STANDBY) ** 
+** ----------------------------------- ** 
+ 
+ Volume in drive D is OPERA
+ Volume Serial Number is 0C2B-C37B
+
+ Directory of d:\
+
+06/22/2013  01:07 AM    <DIR>          50303
+06/22/2013  01:08 AM    <DIR>          50303 - Copy
+08/14/2013  05:10 PM    <DIR>          DATAGUARD
+06/22/2013  03:52 AM    <DIR>          export_07062013
+08/13/2013  05:04 PM    <DIR>          GDLHA
+06/21/2013  10:15 AM    <DIR>          GDLHA_customizables
+06/09/2013  07:32 PM    <DIR>          GDLHA_runtimes
+06/22/2013  07:10 AM    <DIR>          hldx
+10/28/2015  10:43 AM    <DIR>          MICROS
+06/07/2013  10:04 PM    <DIR>          oracle
+06/08/2013  12:13 PM    <DIR>          patches
+11/11/2018  09:00 PM    <DIR>          RMANBKP
+08/15/2013  04:12 AM    <DIR>          stdby_backup
+05/29/2018  12:37 PM    <DIR>          TEMP
+10/21/2015  04:02 PM    <DIR>          UPGRADE
+               0 File(s)              0 bytes
+              15 Dir(s)  290,411,163,648 bytes free
+ 
+ 
+** INFORME BASE DE DATOS PRIMARIA ** 
+** ------------------------------ ** 
+ 
+ 
+** Envío de Reporte x mail **
+Revisando por problemas en el log... 
